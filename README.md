@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=60519b" />
+
 ![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=d3d3d3&width=500&lines=Olá%2C+sou+Michael+Oliveira;Desenvolvedor+Front-End;Bem-vindo(a)+ao+meu+repositório!>)
 
 ## 🤓 Sobre mim...

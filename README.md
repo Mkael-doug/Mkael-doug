@@ -6,14 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=28&pause=1000&color=00A6E0&width=435&lines=Hi%2C+partner!+I'm+Michael+Oliveira;I'm+a+Full-Stack+developer;Be+welcome+to+my+repository!)](https://git.io/typing-svg)  
 </div>
 
-## 🤓 Sobre mim...
-<div align="justify">
-"Sou um desenvolvedor Front-End apaixonado por transformar ideias em experiências digitais interativas e modernas.
-Gosto de unir design e código para criar interfaces funcionais, acessíveis e com boa performance.
-Atualmente, estou aprimorando minhas habilidades em React, animações e desenvolvimento responsivo.
-Acredito que tecnologia é uma forma de arte — e cada projeto é uma nova oportunidade de aprender e evoluir."
-</div>
-
 ## 📶 Estatisticas
 
 

@@ -1,6 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=60519b" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00A6E0" />
 
-![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=d3d3d3&width=500&lines=Olá%2C+sou+Michael+Oliveira;Desenvolvedor+Front-End;Bem-vindo(a)+ao+meu+repositório!>)
+
+<div width=435 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=28&pause=1000&color=00A6E0&width=435&lines=Hi%2C+partner!+I'm+Michael+Oliveira;I'm+a+Full-Stack+developer;Be+welcome+to+my+repository!)](https://git.io/typing-svg)  
+</div>
 
 ## 🤓 Sobre mim...
 <div align="justify">

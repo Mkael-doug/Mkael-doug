@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=28&pause=1000&color=00A6E0&width=435&lines=Hi%2C+partner!+I'm+Michael+Oliveira;I'm+a+Full-Stack+developer;Be+welcome+to+my+repository!)](https://git.io/typing-svg)  
 </div>
 
-## 📶 Estatisticas
+## 📶 Statistics
 
 
 <div align="center">
@@ -17,7 +17,7 @@
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mkael-doug&theme=tokyonight"/>
 </div>
 
-## 🤖 Linguagens & Tecnologias
+## 🤖 My Skills
 
 <div align="center"><br>
   
@@ -33,11 +33,11 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>Contate-me</b>
+        <b>Contact me</b>
       </samp>
   </summary>
 
-## 🌐 Redes Sociais
+## 🌐 Social media
 
 <div align="center">
   <a href="https://www.instagram.com/michdouglas" target="_blank"><img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
